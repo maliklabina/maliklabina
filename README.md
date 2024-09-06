@@ -8,4 +8,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labina-m&show_icons=true&locale=en" alt="labina-m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labina-m&" alt="labina-m" /></p>
